@@ -1,0 +1,112 @@
+# Translation of Themes - Elegant Portfolio in Russian
+# This file is distributed under the same license as the Themes - Elegant Portfolio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-26 09:42:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Elegant Portfolio\n"
+
+#. Theme Name of the theme
+msgid "Elegant Portfolio"
+msgstr "Elegant Portfolio"
+
+#: functions.php:90
+msgid "Secondary Font"
+msgstr "Второй шрифт"
+
+#: functions.php:69
+msgid "Primary font of the site."
+msgstr "Основной шрифт на сайте."
+
+#: functions.php:68
+msgid "Primary Font"
+msgstr "Основной шрифт"
+
+#: functions.php:48
+msgid "Typography"
+msgstr "Типография"
+
+#: functions.php:40
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Настроить типографику, заголовок и фоновое изображение"
+
+#: functions.php:39
+msgid "Appearance Settings"
+msgstr "Настройки отображения"
+
+#: functions.php:307
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#: functions.php:308
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:306
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: functions.php:272
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: functions.php:183
+msgid "Contact Section"
+msgstr "Раздел контакты"
+
+#: functions.php:147
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: functions.php:147
+msgid " Powered by %s"
+msgstr "Сайт работает на %s"
+
+#: functions.php:123
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Ссылка на документацию: %1$sНажмите тут.%2$s"
+
+#: functions.php:121
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Ссылка на демо: %1$sНажмите тут.%2$s"
+
+#: functions.php:108
+msgid "Demo & Documentation"
+msgstr "Демо и документация"
+
+#: functions.php:91
+msgid "Secondary font of the site."
+msgstr "Второстепенный шрифт на сайте."
+
+#: functions.php:185
+msgid "Add Text Widget for contact form and \"Rara:Contact Widget\" for contact details."
+msgstr "Добавьте текстовый виджет для контактной формы и «Rara: Виджет контакты» для контактной информации."
+
+#: functions.php:144
+msgid "Elegant Portfolio | Developed By "
+msgstr "Elegant Portfolio | Разработано "
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: functions.php:145
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/elegant-portfolio/"
+msgstr "https://rarathemes.com/wordpress-themes/elegant-portfolio/"
